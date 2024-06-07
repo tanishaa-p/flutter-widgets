@@ -1,6 +1,7 @@
-# three_b
+#flutter-widgets
 
-A new Flutter project.
+Another flutter project, where I explored more about flutter framework with different widgets, including how to check and uncheck boxes in a to-do list.
+https://github.com/tanishaa-p/three_b/assets/143655963/c1a482e0-3f33-4338-a1ef-03a3198de1a3
 
 ## Getting Started
 
